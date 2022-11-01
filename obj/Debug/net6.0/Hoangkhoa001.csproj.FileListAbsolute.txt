@@ -1,0 +1,8 @@
+C:\Users\Dell\Hoangkhoa001\obj\Debug\net6.0\Hoangkhoa001.csproj.AssemblyReference.cache
+C:\Users\Dell\Hoangkhoa001\obj\Debug\net6.0\Hoangkhoa001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Hoangkhoa001\obj\Debug\net6.0\Hoangkhoa001.AssemblyInfoInputs.cache
+C:\Users\Dell\Hoangkhoa001\obj\Debug\net6.0\Hoangkhoa001.AssemblyInfo.cs
+C:\Users\Dell\Hoangkhoa001\obj\Debug\net6.0\Hoangkhoa001.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Hoangkhoa001\obj\Debug\net6.0\Hoangkhoa001.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Hoangkhoa001\obj\Debug\net6.0\Hoangkhoa001.RazorAssemblyInfo.cache
+C:\Users\Dell\Hoangkhoa001\obj\Debug\net6.0\Hoangkhoa001.RazorAssemblyInfo.cs
